@@ -9,7 +9,7 @@
 ## Project Overview
 **FlaskNotes** is a secure, full-stack web application that allows users to **register, log in, create, view, and manage personal notes**. Built with **Flask**, **SQLAlchemy**, and **Bootstrap 5**, this project demonstrates practical skills in **Python web development, database management, user authentication, and responsive UI design**.  
 
-This project is ideal for showcasing on a **resume or portfolio** as it highlights experience in building **real-world web applications**.
+
 
 ---
 
